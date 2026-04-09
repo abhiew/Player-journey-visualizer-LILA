@@ -5,7 +5,9 @@
 
 *A high-performance, WebGL-accelerated tactical visualization dashboard built for analyzing player and bot behavior within LILA Games.*
 
-**Hosted URL Placeholder**: [Deploy to Dash Enterprise / AWS / Heroku]
+**Live Tool Link**: [https://player-journey-visualizer-lila.onrender.com/](https://player-journey-visualizer-lila.onrender.com/)
+
+> **⚠️ Performance Note:** The live version is hosted on a free-tier instance with limited CPU/RAM. For the intended **60FPS lag-free scrubbing experience**, we recommend running the tool locally following the setup steps below.
 
 ---
 
