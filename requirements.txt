@@ -1,0 +1,7 @@
+pandas
+pyarrow
+plotly
+scipy
+pillow
+dash
+dash-bootstrap-components
