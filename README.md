@@ -1,6 +1,7 @@
 # LILA Player Journey Visualizer
 
-![LILA Journey Visualizer Screenshot](https://via.placeholder.com/1200x600/0b0d10/00f2ff?text=LILA+Tactical+Dashboard)
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/67c469f1-5822-429c-851c-c91d8ecbc1af" />
+
 
 *A high-performance, WebGL-accelerated tactical visualization dashboard built for analyzing player and bot behavior within LILA Games.*
 
